@@ -2,9 +2,9 @@
 
 ## Description
 
-The Prework Study Guide was created for a coding bootcamp student to have a central location to post their notes on the basics of HTML, CSS, Git, and JavaScript .
+The Prework Study Guide was created for a coding bootcamp student to have a central location to post their notes on the basics of HTML, CSS, Git, and JavaScript.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Additional CSS was added per 3.2.5 prework directions.
 
 ## Installation
 
